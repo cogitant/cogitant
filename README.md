@@ -16,8 +16,5 @@ I specialize in developing **efficient backend systems** while actively expandin
 ## 📫 Contact Me  
 
 - 💬 Discord → [**@dlcn**](https://discord.com/users/1200913182915571926)
-- 📷 Instagram  → [**@dialaect**](https://www.instagram.com/dialaect)
-- 🎞 Tiktok → [**@edialect**](https://www.tiktok.com/@edialect)
 - 🌐 Guns.lol → [**@dialect**](https://guns.lol/dialect)  
 - 💿 Carrd.co → [**dialect.carrd.co**](https://dialect.carrd.co)
-- 🔗 Email → [**dialectdev@proton.me**](mailto:dialectdev@proton.me)
