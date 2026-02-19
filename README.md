@@ -15,4 +15,4 @@ I specialize in developing **efficient backend systems** while actively expandin
 
 ## 📫 Contact Me  
 
-- 💬 Discord → [**@dlcn**](https://discord.com/users/1200913182915571926)
+- 💬 Discord → [**@h10**](https://discord.com/users/1357424091455426672)
