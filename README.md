@@ -16,3 +16,6 @@ I specialize in developing **efficient backend systems** while actively expandin
 ## 📫 Contact Me  
 
 - 💬 Discord → [**@h10**](https://discord.com/users/1357424091455426672)
+
+
+![](https://komarev.com/ghpvc/?username=cogitant&style=flat-square&color=blue)
